@@ -1,1 +1,1 @@
-Projeto Clínica de Saúde no Star UML para disciplima de Pedro Sobreiro.
+Projeto Clínica de Saúde no Star UML para disciplina do Pedro Sobreiro.
